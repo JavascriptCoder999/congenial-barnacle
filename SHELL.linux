@@ -1,9 +1,0 @@
-Name: 
-Module: payload//linux/x86/;;exec
-Platform: Linux
-Arch: x86
-Needs Admin: Yes
-Total size: 25
-Rank: Normal
-Provided by:
-lucaspeel93 <lucaspeel93@outlook.com>
