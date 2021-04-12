@@ -6,3 +6,10 @@ mkdir myproject
 cd myproject
 git init
 ls 
+index.htmlll
+git status
+On branch master
+
+git add index.html
+
+Untracked files
