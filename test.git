@@ -1,0 +1,8 @@
+git --version
+git version 2.30.2.windows.10
+git config --global user.name "w3schools-test"
+git config --global user.email "test@w3schools.com"
+mkdir myproject
+cd myproject
+git init
+ls 
