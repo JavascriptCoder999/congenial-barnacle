@@ -1,0 +1,6 @@
+//console message
+Console.WriteLine("c sharp");
+Console.WriteLine("c sharp");
+Console.WriteLine("c sharp");
+type test_1 = true
+bool test_1
